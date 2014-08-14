@@ -1,7 +1,7 @@
 DIY-CNC
 =======
 
-CNC Prototype using easily available parts.
+3-axis CNC Prototype using easily available parts.
 
 The CNC is still in the building process and the Z-axis does need to be redesigned because of it's complexity. 
 
